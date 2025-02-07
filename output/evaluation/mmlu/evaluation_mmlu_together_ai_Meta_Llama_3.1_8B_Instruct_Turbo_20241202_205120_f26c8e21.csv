@@ -1,0 +1,2 @@
+subject,question,choices,answer,predicted_answer,raw_response
+high_school_microeconomics,What is the law of demand?,"['As price increases, quantity demanded increases', 'As price increases, quantity demanded decreases', 'As price decreases, quantity demanded decreases', 'Price and quantity demanded are unrelated']",B,C,"The correct answer for the first question is B. When consumer income increases for a normal good, the demand curve shifts to the right. This is because as income"
